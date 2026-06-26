@@ -1,78 +1,61 @@
-<div align="center">
-  <h1>Vandhana Thatikrindhi</h1>
-  <h3>Software Engineer | Backend Architecture & AI Integration</h3>
-  <p>Building scalable enterprise solutions and intelligent microservices.</p>
-</div>
+# Hi there 👋, I'm Vandhana!
+
+## 🚀 About Me
+
+I'm a **Software Engineer** with a unique blend of **Backend** and **Artificial Intelligence** expertise. I specialize in building highly scalable, secure enterprise architectures using **Java Spring Boot**, while leveraging a strong foundation in **Python** to integrate advanced Machine Learning models and AI capabilities.
+
+My experience ranges from developing robust REST APIs and optimizing complex database transactions to creating hyper-personalized educational platforms with semantic search. I am passionate about writing clean, efficient code and bridging the gap between intelligent data processing and seamless server-side logic.
+
+- 🔭 **Currently Working on:** Advanced AI-Powered Learning Platforms & Java Backend Systems
+- 🌱 **Currently Learning:** Microservices Architecture, Cloud Computing, and System Design
+- 💡 **Interested in:** Backend Development, AI Integration, and Scalable Enterprise Solutions
+- 💬 **Ask Me About:** Java, Spring Boot, Python, REST API Design, and Database Optimization
+- 📫 **How to Reach Me:** [YOUR-EMAIL-ADDRESS@gmail.com](mailto:YOUR-EMAIL-ADDRESS@gmail.com)
 
 ---
 
-## Professional Summary
+## 🛠️ Skills & Technologies
 
-Computer Science and Engineering graduate with hands-on experience in **backend development, systems architecture, and artificial intelligence**. Demonstrated ability to design and deploy full-stack applications, utilizing frameworks such as Spring Boot and FastAPI. Passionate about writing clean, maintainable code, optimizing database performance, and seamlessly integrating ML models into production environments. Currently seeking a full-time Software Engineering role where I can contribute to high-impact technical solutions.
+**Backend Development**
+- **Languages:** Java (Core, Java 17+, Multithreading), Python (3.x)
+- **Frameworks:** Spring Boot, Spring MVC, Spring Data JPA, FastAPI
+- **Architecture:** Microservices, RESTful APIs, Layered Architecture
 
----
+**Frontend Development & AI Integration**
+- **Core:** JavaScript, HTML5, CSS3
+- **Frameworks:** React.js
+- **AI & ML:** FAISS (Semantic Search), Open-Source LLMs, PyTorch
 
-## Professional Experience
+**Databases & Storage**
+- **Relational Databases:** MySQL
+- **Caching & Local DBs:** SQLite
 
-**Java Developer Intern**  
-*Focused on Enterprise Backend Engineering*
-- Architected and deployed secure RESTful APIs using **Java and Spring Boot**.
-- Implemented standard layered architectures (Controller, Service, Repository) to ensure clean separation of concerns and high modularity.
-- Engineered database schemas and managed complex transactions using **MySQL, Spring Data JPA, and Hibernate**.
-- Collaborated on CI/CD workflows and conducted rigorous API testing using **Postman**.
-
----
-
-## Key Engineering Projects
-
-### 1. [AI-Powered Learning Platform](https://github.com/VandhanaThatikrindhi/AI-Powered-Learning-Platform)
-**Tech Stack:** Java, Spring Boot, Python, FastAPI, FAISS, MySQL
-- **Architecture:** Designed a microservices-based educational platform combining a high-throughput Spring Boot backend with a Python AI inference service.
-- **AI Integration:** Implemented vector embeddings and semantic search via FAISS to dynamically generate personalized learning paths.
-- **Performance:** Optimized data retrieval and quiz evaluations, providing real-time, adaptive curriculum feedback to users.
-
-### 2. [Enterprise E-Banking System](https://github.com/VandhanaThatikrindhi/ebanking-springboot)
-**Tech Stack:** Java, Spring Boot, Spring MVC, MySQL, Maven
-- **Core Functionality:** Developed a robust digital banking backend to securely manage user accounts, deposits, withdrawals, and inter-account fund transfers.
-- **Security & Reliability:** Built comprehensive transaction tracking and ensured data consistency using ACID properties within the JPA/Hibernate layer.
-
-### 3. [Multilingual Expressive TTS System](https://github.com/VandhanaThatikrindhi/Multilingual_TTS_Submission)
-**Tech Stack:** Python, React, PyTorch, Open-Source ML Models
-- **AI/ML:** Engineered a 100% offline Text-to-Speech system supporting English, Hindi, Telugu, and Kannada using MMS-TTS models.
-- **Full-Stack Integration:** Bridged the advanced Python processing backend with a responsive React frontend for seamless cross-origin audio streaming.
+**DevOps & Tools**
+- **Version Control:** Git & GitHub
+- **Tools:** Postman, Maven, VS Code, IntelliJ IDEA
 
 ---
 
-## Technical Competencies
+## 📁 Top Projects
 
 <div align="center">
-  <p><strong>Languages & Core Tech</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light" alt="Core Languages" />
+  <a href="https://github.com/VandhanaThatikrindhi/ebanking-springboot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VandhanaThatikrindhi&repo=ebanking-springboot&theme=radical&hide_border=true" alt="E-Banking System" />
   </a>
-  <p><strong>Frameworks & Libraries</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,fastapi,react,hibernate,bootstrap&theme=light" alt="Frameworks" />
+  <a href="https://github.com/VandhanaThatikrindhi/AI-Powered-Learning-Platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VandhanaThatikrindhi&repo=AI-Powered-Learning-Platform&theme=radical&hide_border=true" alt="AI-Powered Learning Platform" />
   </a>
-  <p><strong>Databases, Tools & Version Control</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,maven&theme=light" alt="Tools" />
+  <a href="https://github.com/VandhanaThatikrindhi/Multilingual_TTS_Submission">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VandhanaThatikrindhi&repo=Multilingual_TTS_Submission&theme=radical&hide_border=true" alt="Multilingual TTS System" />
   </a>
 </div>
 
 ---
 
-## GitHub Analytics
+## 🔗 Connect with Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VandhanaThatikrindhi&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=005C84" alt="Vandhana's GitHub Stats" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-ADDRESS@gmail.com)
 
----
+<br/>
 
-## Let's Connect
-
-Looking for opportunities to contribute to innovative engineering teams. 
-
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
-- **Email:** [YOUR-EMAIL-ADDRESS@gmail.com](mailto:YOUR-EMAIL-ADDRESS@gmail.com)
+💡 *"Writing intelligent code to solve complex real-world problems."*
