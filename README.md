@@ -1,69 +1,78 @@
 <div align="center">
-  <h2>Hi there! I'm Vandhana Thatikrindhi 👋</h2>
-  <p><strong>Software Engineer | Java Backend & AI/ML Enthusiast</strong></p>
+  <h1>Vandhana Thatikrindhi</h1>
+  <h3>Software Engineer | Backend Architecture & AI Integration</h3>
+  <p>Building scalable enterprise solutions and intelligent microservices.</p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 📝 Professional Summary
 
-I am a **Computer Science and Engineering** student and an aspiring Software Engineer with hands-on experience in **backend development, enterprise architecture, and artificial intelligence**. I recently completed a Java Developer Internship, where I built scalable REST APIs and full-stack systems. I'm passionate about writing clean, maintainable code and building products that solve real-world problems.
-
-- 🎓 **Education:** B.Tech in Computer Science and Engineering
-- 💼 **Experience:** Java Developer Intern
-- 🔭 **Currently working on:** Advanced AI-Powered Learning Platforms & Multilingual TTS Systems
-- 🌱 **Currently learning:** Advanced Cloud Architecture & Scalable Microservices
-- 💬 **Ask me about:** Java, Spring Boot, Python, and REST API design
+Computer Science and Engineering graduate with hands-on experience in **backend development, systems architecture, and artificial intelligence**. Demonstrated ability to design and deploy full-stack applications, utilizing frameworks such as Spring Boot and FastAPI. Passionate about writing clean, maintainable code, optimizing database performance, and seamlessly integrating ML models into production environments. Currently seeking a full-time Software Engineering role where I can contribute to high-impact technical solutions.
 
 ---
 
-### 🛠️ Tech Stack
+## 💼 Professional Experience
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Backend & Frameworks:**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-**Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Java Developer Intern**  
+*Focused on Enterprise Backend Engineering*
+- Architected and deployed secure RESTful APIs using **Java and Spring Boot**.
+- Implemented standard layered architectures (Controller, Service, Repository) to ensure clean separation of concerns and high modularity.
+- Engineered database schemas and managed complex transactions using **MySQL, Spring Data JPA, and Hibernate**.
+- Collaborated on CI/CD workflows and conducted rigorous API testing using **Postman**.
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Key Engineering Projects
 
-1. **[AI-Powered Learning Platform](https://github.com/VandhanaThatikrindhi/AI-Powered-Learning-Platform)**  
-   *Spring Boot, Python, FastAPI, FAISS, MySQL*  
-   A full-stack, hyper-personalized educational system that dynamically generates and evaluates learning paths using a Spring Boot backend and a Python AI microservice.
+### 1. [AI-Powered Learning Platform](https://github.com/VandhanaThatikrindhi/AI-Powered-Learning-Platform)
+**Tech Stack:** Java, Spring Boot, Python, FastAPI, FAISS, MySQL
+- **Architecture:** Designed a microservices-based educational platform combining a high-throughput Spring Boot backend with a Python AI inference service.
+- **AI Integration:** Implemented vector embeddings and semantic search via FAISS to dynamically generate personalized learning paths.
+- **Performance:** Optimized data retrieval and quiz evaluations, providing real-time, adaptive curriculum feedback to users.
 
-2. **[Multilingual Expressive TTS System](https://github.com/VandhanaThatikrindhi/Multilingual_TTS_Submission)**  
-   *Python, ML Models, React*  
-   A robust offline Text-to-Speech system supporting multiple languages (Hindi, Telugu, Kannada, English) with emotion control and open-source MMS-TTS models.
+### 2. [Enterprise E-Banking System](https://github.com/VandhanaThatikrindhi/ebanking-springboot)
+**Tech Stack:** Java, Spring Boot, Spring MVC, MySQL, Maven
+- **Core Functionality:** Developed a robust digital banking backend to securely manage user accounts, deposits, withdrawals, and inter-account fund transfers.
+- **Security & Reliability:** Built comprehensive transaction tracking and ensured data consistency using ACID properties within the JPA/Hibernate layer.
 
-3. **[E-Banking System](https://github.com/VandhanaThatikrindhi/ebanking-springboot)**  
-   *Java, Spring Boot, Spring MVC, MySQL*  
-   A secure enterprise backend banking application utilizing a layered architecture to manage accounts, transactions, and fund transfers.
+### 3. [Multilingual Expressive TTS System](https://github.com/VandhanaThatikrindhi/Multilingual_TTS_Submission)
+**Tech Stack:** Python, React, PyTorch, Open-Source ML Models
+- **AI/ML:** Engineered a 100% offline Text-to-Speech system supporting English, Hindi, Telugu, and Kannada using MMS-TTS models.
+- **Full-Stack Integration:** Bridged the advanced Python processing backend with a responsive React frontend for seamless cross-origin audio streaming.
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Technical Competencies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VandhanaThatikrindhi&show_icons=true&theme=radical&hide_border=true" alt="Vandhana's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandhanaThatikrindhi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <p><strong>Languages & Core Tech</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=light" alt="Core Languages" />
+  </a>
+  <p><strong>Frameworks & Libraries</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,fastapi,react,hibernate,bootstrap&theme=light" alt="Frameworks" />
+  </a>
+  <p><strong>Databases, Tools & Version Control</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,maven&theme=light" alt="Tools" />
+  </a>
 </div>
 
 ---
 
-### 📫 Connect with Me
+## 📈 GitHub Analytics
 
-<!-- Update these links with your actual URLs! -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-ADDRESS@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VandhanaThatikrindhi&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=005C84" alt="Vandhana's GitHub Stats" />
+</div>
+
+---
+
+## 📫 Let's Connect
+
+Looking for opportunities to contribute to innovative engineering teams. 
+
+- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+- **Email:** [YOUR-EMAIL-ADDRESS@gmail.com](mailto:YOUR-EMAIL-ADDRESS@gmail.com)
