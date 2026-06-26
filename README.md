@@ -6,13 +6,13 @@
 
 ---
 
-## 📝 Professional Summary
+## Professional Summary
 
 Computer Science and Engineering graduate with hands-on experience in **backend development, systems architecture, and artificial intelligence**. Demonstrated ability to design and deploy full-stack applications, utilizing frameworks such as Spring Boot and FastAPI. Passionate about writing clean, maintainable code, optimizing database performance, and seamlessly integrating ML models into production environments. Currently seeking a full-time Software Engineering role where I can contribute to high-impact technical solutions.
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **Java Developer Intern**  
 *Focused on Enterprise Backend Engineering*
@@ -23,7 +23,7 @@ Computer Science and Engineering graduate with hands-on experience in **backend 
 
 ---
 
-## 🚀 Key Engineering Projects
+## Key Engineering Projects
 
 ### 1. [AI-Powered Learning Platform](https://github.com/VandhanaThatikrindhi/AI-Powered-Learning-Platform)
 **Tech Stack:** Java, Spring Boot, Python, FastAPI, FAISS, MySQL
@@ -43,7 +43,7 @@ Computer Science and Engineering graduate with hands-on experience in **backend 
 
 ---
 
-## 🛠️ Technical Competencies
+## Technical Competencies
 
 <div align="center">
   <p><strong>Languages & Core Tech</strong></p>
@@ -62,7 +62,7 @@ Computer Science and Engineering graduate with hands-on experience in **backend 
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VandhanaThatikrindhi&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=005C84" alt="Vandhana's GitHub Stats" />
@@ -70,7 +70,7 @@ Computer Science and Engineering graduate with hands-on experience in **backend 
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 Looking for opportunities to contribute to innovative engineering teams. 
 
