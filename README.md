@@ -38,20 +38,34 @@ My experience ranges from developing robust REST APIs and optimizing complex dat
 
 ## 📁 Top Projects
 
-<div align="center">
-  <a href="https://github.com/VandhanaThatikrindhi/ebanking-springboot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VandhanaThatikrindhi&repo=ebanking-springboot&theme=radical&hide_border=true" alt="E-Banking System" />
-  </a>
-  <a href="https://github.com/VandhanaThatikrindhi/AI-Powered-Learning-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VandhanaThatikrindhi&repo=AI-Powered-Learning-Platform&theme=radical&hide_border=true" alt="AI-Powered Learning Platform" />
-  </a>
-</div>
+<table border="1" bordercolor="#30363d" style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 20px;">
+      <h3><a href="https://github.com/VandhanaThatikrindhi/ebanking-springboot" style="text-decoration:none;">💳 E-Banking System</a></h3>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-666666?style=flat&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+      <br/><br/>
+      <p>A secure backend banking application implementing core banking features such as account management and transaction handling using a layered architecture.</p>
+    </td>
+    <td width="50%" align="center" valign="top" style="padding: 20px;">
+      <h3><a href="https://github.com/VandhanaThatikrindhi/AI-Powered-Learning-Platform" style="text-decoration:none;">🎓 AI-Powered Learning Platform</a></h3>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-666666?style=flat&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <br/><br/>
+      <p>An AI-driven e-learning platform that generates personalized learning paths and course recommendations. Backend services built using Spring Boot and FastAPI.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandhana16) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandhana.thatikrindi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vandhana16) [![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge)](mailto:vandhana.thatikrindi@gmail.com)
 
 <br/>
 
