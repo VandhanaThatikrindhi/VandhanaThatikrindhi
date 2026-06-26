@@ -10,7 +10,7 @@ My experience ranges from developing robust REST APIs and optimizing complex dat
 - 🌱 **Currently Learning:** Microservices Architecture, Cloud Computing, and System Design
 - 💡 **Interested in:** Backend Development, AI Integration, and Scalable Enterprise Solutions
 - 💬 **Ask Me About:** Java, Spring Boot, Python, REST API Design, and Database Optimization
-- 📫 **How to Reach Me:** [YOUR-EMAIL-ADDRESS@gmail.com](mailto:YOUR-EMAIL-ADDRESS@gmail.com)
+- 📫 **How to Reach Me:** [vandhana.thatikrindi@gmail.com](mailto:vandhana.thatikrindi@gmail.com)
 
 ---
 
@@ -45,16 +45,13 @@ My experience ranges from developing robust REST APIs and optimizing complex dat
   <a href="https://github.com/VandhanaThatikrindhi/AI-Powered-Learning-Platform">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VandhanaThatikrindhi&repo=AI-Powered-Learning-Platform&theme=radical&hide_border=true" alt="AI-Powered Learning Platform" />
   </a>
-  <a href="https://github.com/VandhanaThatikrindhi/Multilingual_TTS_Submission">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VandhanaThatikrindhi&repo=Multilingual_TTS_Submission&theme=radical&hide_border=true" alt="Multilingual TTS System" />
-  </a>
 </div>
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL-ADDRESS@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vandhana16) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vandhana.thatikrindi@gmail.com)
 
 <br/>
 
