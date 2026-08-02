@@ -1,20 +1,20 @@
-# Hi there 👋, I'm Vandhana!
+# Hi there , I'm Vandhana!
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Software Engineer** with a unique blend of **Backend** and **Artificial Intelligence** expertise. I specialize in building highly scalable, secure enterprise architectures using **Java Spring Boot**, while leveraging a strong foundation in **Python** to integrate advanced Machine Learning models and AI capabilities.
 
 My experience ranges from developing robust REST APIs and optimizing complex database transactions to creating hyper-personalized educational platforms with semantic search. I am passionate about writing clean, efficient code and bridging the gap between intelligent data processing and seamless server-side logic.
 
-- 🔭 **Currently Working on:** Advanced AI-Powered Learning Platforms & Java Backend Systems
-- 🌱 **Currently Learning:** Microservices Architecture, Cloud Computing, and System Design
-- 💡 **Interested in:** Backend Development, AI Integration, and Scalable Enterprise Solutions
-- 💬 **Ask Me About:** Java, Spring Boot, Python, REST API Design, and Database Optimization
-- 📫 **How to Reach Me:** [vandhana.thatikrindi@gmail.com](mailto:vandhana.thatikrindi@gmail.com)
+-  **Currently Working on:** Advanced AI-Powered Learning Platforms & Java Backend Systems
+-  **Currently Learning:** Microservices Architecture, Cloud Computing, and System Design
+-  **Interested in:** Backend Development, AI Integration, and Scalable Enterprise Solutions
+-  **Ask Me About:** Java, Spring Boot, Python, REST API Design, and Database Optimization
+-  **How to Reach Me:** [vandhana.thatikrindi@gmail.com](mailto:vandhana.thatikrindi@gmail.com)
 
 ---
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 **Backend Development**
 - **Languages:** Java (Core, Java 17+, Multithreading), Python (3.x)
@@ -36,7 +36,7 @@ My experience ranges from developing robust REST APIs and optimizing complex dat
 
 ---
 
-## 📁 Top Projects
+##  Top Projects
 
 <table border="1" bordercolor="#30363d" style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -63,10 +63,10 @@ My experience ranges from developing robust REST APIs and optimizing complex dat
 
 ---
 
-## 🔗 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge)](https://www.linkedin.com/in/vandhana16) [![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge)](mailto:vandhana.thatikrindi@gmail.com)
 
 <br/>
 
-💡 *"Writing intelligent code to solve complex real-world problems."*
+ *"Writing intelligent code to solve complex real-world problems."*
